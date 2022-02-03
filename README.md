@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **anas@arbaoui.me**
 
-- ⚡ Fun fact **I really don't think before typing my code**
+- ⚡ Fun fact **I can beat boxes**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
