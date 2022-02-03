@@ -1,11 +1,11 @@
 <h1 align="center">Howdy there, I'm Anas</h1>
 <h3 align="center">A full-stack developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anarbb&label=Profile%20views&color=0e75b6&style=flat" alt="anarbb" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anarbb&label=Profile%20views&color=0e75b6&style=flat" alt="anarbb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anarbb" alt="anarbb" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anarbb" alt="anarbb" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anasdonis" target="blank"><img src="https://img.shields.io/twitter/follow/anasdonis?logo=twitter&style=for-the-badge" alt="anasdonis" /></a> </p>
+<p align="center"> <a href="https://twitter.com/anasdonis" target="blank"><img src="https://img.shields.io/twitter/follow/anasdonis?logo=twitter&style=for-the-badge" alt="anasdonis" /></a> </p>
 
 - 🔭 I’m currently working on **Engen**
 
@@ -35,5 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anarbb&show_icons=true&locale=en" alt="anarbb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anarbb&" alt="anarbb" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anarbb&" alt="anarbb" /></p>
 
