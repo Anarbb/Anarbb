@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anasdonis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasdonis" height="30" width="40" /></a>
-<a href="https://instagram.com/anas_uranus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas_uranus" height="30" width="40" /></a>
+<a href="https://instagram.com/uranus_anas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas_uranus" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/anasdonis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anasdonis" height="30" width="40" /></a>
 </p>
 
