@@ -6,19 +6,19 @@
 
 <p align="center"> <a href="https://twitter.com/anasdonis" target="blank"><img src="https://img.shields.io/twitter/follow/anasdonis?logo=twitter&style=for-the-badge" alt="anasdonis" /></a> </p>
 
-- 🔭 I’m currently working on **Engen**
+- Currently working on **Engen** A Tor/Dark-Web Google like search engine.
 
-- 🌱 I’m currently learning **C, React, Arduino**
+- Currently trying to improve in Front-End Dev, C/C++ and Robotics
 
-- 👯 I’m looking to collaborate on [Gendex](https://gendex.ga)
+- currently looking for people to work with on [Gendex](https://gendex.ga)
 
-- 👨‍💻 All of my projects are available at [https://arbaoui.me](https://arbaoui.me)
+- My Portfolio is at [https://arbaoui.me](https://arbaoui.me)
 
-- 📝 I regularly write articles on [https://arbaoui.me/blog](https://arbaoui.me/blog)
+- I write blogs on [https://arbaoui.me/blog](https://arbaoui.me/blog)
 
-- 📫 How to reach me **anas@arbaoui.me**
+- Contact me via email **anas@arbaoui.me** or via my site [https://arbaoui.me/contact](https://arbaoui.me/contact)
 
-- ⚡ Fun fact **I can beat boxes**
+- Fun fact: I can beat some boxes aka beatbox
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
