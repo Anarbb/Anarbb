@@ -10,7 +10,7 @@
 
 - Currently trying to improve in Front-End Dev, C/C++ and Robotics
 
-- Currently looking for people to work with on <a href="https://gendex.ga" target="blank">https://gendex.ga</a>
+- Currently looking for people to work with on <a href="https://gendex.ga" target="blank">Gendex</a>
 
 - My Portfolio is at <a href="https://arbaoui.me" target="blank">https://arbaoui.me</a>
 
