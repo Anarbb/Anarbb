@@ -10,9 +10,9 @@
 
 - Currently trying to improve in Front-End Dev, C/C++ and Robotics
 
-- Currently looking for people to work with on <a href="https://gendex.ga" target="blank">Gendex</a>
+- Currently looking for people to work with on <a href="https://gendex.ga" target="_blank">Gendex</a>
 
-- My Portfolio is at <a href="https://arbaoui.me" target="blank">https://arbaoui.me</a>
+- My Portfolio is at <a href="https://arbaoui.me" target="_blank">https://arbaoui.me</a>
 
 - I write blogs on [https://arbaoui.me/blog](https://arbaoui.me/blog)
 
