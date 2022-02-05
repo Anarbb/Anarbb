@@ -10,13 +10,13 @@
 
 - Currently trying to improve in Front-End Dev, C/C++ and Robotics
 
-- Currently looking for people to work with on [Gendex](https://gendex.ga)
+- Currently looking for people to work with on <a href="https://gendex.ga" target="blank">https://gendex.ga</a>
 
-- My Portfolio is at [https://arbaoui.me](https://arbaoui.me)
+- My Portfolio is at <a href="https://arbaoui.me" target="blank">https://arbaoui.me</a>
 
 - I write blogs on [https://arbaoui.me/blog](https://arbaoui.me/blog)
 
-- Contact me via email **anas@arbaoui.me** or via my site [https://arbaoui.me/contact](https://arbaoui.me/contact)
+- Contact me via email **anas@arbaoui.me** or via my site <a href="https://arbaoui.me/contact" target="blank">https://arbaoui.me/contact</a>
 
 - Fun fact: I can beat some boxes aka beatbox
 
