@@ -1,4 +1,4 @@
-<h1 align="center">Howdy there, I'm Anas</h1>
+<h1 align="center">eyyo, I'm Anas</h1>
 <h3 align="center">A full-stack developer from Morocco</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anarbb&label=Profile%20views&color=0e75b6&style=flat" alt="anarbb" /> </p>
