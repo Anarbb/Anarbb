@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://twitter.com/anasdonis" target="blank"><img src="https://img.shields.io/twitter/follow/anasdonis?logo=twitter&style=for-the-badge" alt="anasdonis" /></a> </p>
 
-- Currently working on <a href="https://wallets.ga" target="_blank">Wallets</a>.
+- Currently working on Flask Analytic.
 
 - Currently trying to improve in Front-End Dev, C/C++ and Robotics
 
