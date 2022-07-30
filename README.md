@@ -1,6 +1,6 @@
 <h1 align="center">eyyo, I'm Anas</h1>
 <h3 align="center">A full-stack developer from Morocco</h3>
-
+[![anarbb's 42 stats](https://badge.mediaplus.ma/darkblue/aarbaoui)](https://github.com/oakoudad/badge42)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anarbb&label=Profile%20views&color=0e75b6&style=flat" alt="anarbb" /> </p>
 
 
