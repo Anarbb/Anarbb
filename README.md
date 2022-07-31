@@ -13,7 +13,7 @@
 
 - My Portfolio is at <a href="https://arbaoui.me" target="_blank">https://arbaoui.me</a>
 
-- I write blogs on [https://arbaoui.me/blog](https://arbaoui.me/blog)
+- I write blogs on [https://arbaoui.me/blog](https://arbaoui.me/blog) really lazy to write anything rn but soon hopefully
 
 - Contact me via email **anas@arbaoui.me** or via my site <a href="https://arbaoui.me/contact" target="blank">https://arbaoui.me/contact</a>
 
