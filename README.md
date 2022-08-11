@@ -27,7 +27,6 @@
 </p>
 <h3 align="center">Support me:</h3>
 <p align="center">
-<a href="https://www.fiverr.com/anarbb" target="blank"><img align="center" src="https://github.com/Anarbb/Anarbb/raw/main/fiverr-1.svg" alt="anarbb fiverr" height="30" width="40" /></a>
 <a href="https://www.buymeacoffee.com/anarb" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anarbb/Anarbb/main/coffee.svg" alt="anarb buymeacoffee" height="30" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
