@@ -16,7 +16,7 @@
 
 - Contact me via email **anas@arbaoui.me** or via my site <a href="https://arbaoui.me/contact" target="blank">https://arbaoui.me/contact</a>
 
-- Fun fact: I can beat some boxes aka beatbox
+- Fun fact: I can beat some boxes
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
