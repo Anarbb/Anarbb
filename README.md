@@ -1,6 +1,5 @@
 <h1 align="center">eyyo, I'm Anas</h1>
 <h3 align="center">A full-stack developer from Morocco</h3>
-<p align="center"> <img src="https://badge.mediaplus.ma/black/aarbaoui" alt="anarbb" /> </p>
 
 <p align="center"> <a href="https://twitter.com/anasdonis" target="blank"><img src="https://img.shields.io/twitter/follow/anasdonis?logo=twitter&style=for-the-badge" alt="anasdonis" /></a> </p>
 
