@@ -21,7 +21,7 @@
 <p align="center">
 <a href="https://twitter.com/anasdonis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasdonis" height="30" width="40" /></a>
 <a href="https://instagram.com/uranus_anas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas_uranus" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anas-arbaoui-92b011219/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/LinkedIn_font_awesome.svg" alt="anasdonis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anas-arbaoui/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/LinkedIn_font_awesome.svg" alt="anasdonis" height="30" width="40" /></a>
 </p>
 <h3 align="center">Support me:</h3>
 <p align="center">
