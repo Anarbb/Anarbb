@@ -5,8 +5,6 @@
 
 - Currently working on 42Leaders
 
-- Currently trying to improve in Front-End Dev, C/C++ and Robotics
-
 - Currently looking for people to work with on <a href="https://enas.digital" target="_blank">Enas Digital</a>
 
 - My Portfolio is at <a href="https://arbaoui.me" target="_blank">https://arbaoui.me</a>
