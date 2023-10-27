@@ -3,11 +3,11 @@
 <!-- <p align="center"> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldav9k4o00450fmqdau6nwpt/stats?cursusId=21&coalitionId=73" alt="aarbaoui's 42 stats" /></a></p> -->
 <p align="center"> <a href="https://twitter.com/anasdonis" target="blank"><img src="https://img.shields.io/twitter/follow/anasdonis?logo=twitter&style=for-the-badge" alt="anasdonis" /></a> </p>
 
-- Currently working on Flask Analytic.
+- Currently working on 42Leaders
 
 - Currently trying to improve in Front-End Dev, C/C++ and Robotics
 
-- Currently looking for people to work with on <a href="https://gendex.ga" target="_blank">Gendex</a>
+- Currently looking for people to work with on <a href="https://enas.digital" target="_blank">Enas Digital</a>
 
 - My Portfolio is at <a href="https://arbaoui.me" target="_blank">https://arbaoui.me</a>
 
